@@ -9,6 +9,7 @@ yamaha
 - mx king
 - nmax
 - xmax
+- r15
 
 suzuki
 - spin
