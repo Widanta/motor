@@ -4,5 +4,5 @@ honda
 - forza
 yamaha
 - mx king
-
+- nmax
 
