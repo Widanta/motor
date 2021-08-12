@@ -3,7 +3,7 @@ honda
 - beat
 - forza
 - fario
-
+- cbr
 
 yamaha
 - mx king
