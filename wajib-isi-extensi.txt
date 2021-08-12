@@ -13,3 +13,4 @@ yamaha
 
 suzuki
 - spin
+- gsx 150
