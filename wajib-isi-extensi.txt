@@ -10,3 +10,4 @@ yamaha
 - xmax
 
 suzuki
+- spin
