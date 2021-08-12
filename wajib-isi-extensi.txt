@@ -2,6 +2,7 @@ honda
 - scoopy
 - beat
 - forza
+- fario
 
 
 yamaha
