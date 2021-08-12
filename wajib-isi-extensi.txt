@@ -1,4 +1,5 @@
 honda
 - scoopy
+- beat
 yamaha
 - mx king
