@@ -16,3 +16,4 @@ suzuki
 - spin
 - gsx 150
 
+kawasaki
