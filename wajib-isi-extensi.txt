@@ -18,3 +18,4 @@ suzuki
 
 kawasaki
 - ninja 250
+- klx
