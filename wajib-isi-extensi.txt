@@ -17,3 +17,4 @@ suzuki
 - gsx 150
 
 kawasaki
+- ninja 250
