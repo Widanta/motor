@@ -14,7 +14,7 @@ yamaha
 
 suzuki
 - spin
-- gsx 1
+- gsx 
 
 
 
