@@ -16,5 +16,5 @@ suzuki
 - spin
 - gsx 150
 
-kawasa
+kawas
 
