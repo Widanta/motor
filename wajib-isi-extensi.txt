@@ -13,7 +13,7 @@ yamaha
 - r15
 
 suzuki
-- spi
+- sp
 
 
 
