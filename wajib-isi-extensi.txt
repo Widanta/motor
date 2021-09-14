@@ -9,7 +9,7 @@ honda
 yamaha
 - mx king
 - nmax
-- x
+- xmax
 
 
 
