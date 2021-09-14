@@ -10,7 +10,7 @@ yamaha
 - mx king
 - nmax
 - xmax
-- r1
+- r
 
 
 
