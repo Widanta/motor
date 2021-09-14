@@ -12,7 +12,7 @@ yamaha
 - xmax
 - r15
 
-su
+s
 
 
 
