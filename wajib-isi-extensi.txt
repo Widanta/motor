@@ -6,7 +6,6 @@ honda
 - cbr 150
 - crf 150
 
-y
 
 
 
