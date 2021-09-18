@@ -3,7 +3,7 @@ honda
 - beat
 - forza
 - fario
-- cbr 150
+- cbr 15
 
 
 
